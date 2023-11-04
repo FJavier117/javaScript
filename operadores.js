@@ -36,3 +36,4 @@ console.log(e);
 //Potencia (Disponible en ECMAScript 2016 para versiones anteriores de Usar la clase Math)
 f = 2 ** 3;
 console.log(f);
+console.log(Math.pow(2,3)); //Base exponente
